@@ -36,9 +36,9 @@
             this.lblName.AutoSize = true;
             this.lblName.Location = new System.Drawing.Point(30, 39);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(179, 16);
+            this.lblName.Size = new System.Drawing.Size(186, 16);
             this.lblName.TabIndex = 0;
-            this.lblName.Text = "Profile - GitHub Beginner Lab";
+            this.lblName.Text = "Contact Number: 09360268657";
             // 
             // Form1
             // 
